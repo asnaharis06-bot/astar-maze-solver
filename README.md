@@ -1,6 +1,6 @@
 # 🧩 A* Maze Solver
 
-A Python implementation of the **A\* (A-Star) Search Algorithm** that finds the shortest path through a maze with **live step-by-step animation** using matplotlib.
+A Python implementation of the **A\* (A-Star) Search Algorithm** that finds the shortest path through a maze with **live step-by-step animation** using matplotlib. Built as part of my Syntecxhub Artificial Intelligence Internship
 
 ---
 
@@ -155,7 +155,7 @@ pip install matplotlib
 ---
 ## 🖼️ Screenshots
 
-
+https://github.com/asnaharis06-bot/astar-maze-solver/blob/main/Screenshot%202026-03-14%20133410.png
 
 
 ## 👤 Author
