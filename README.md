@@ -167,7 +167,7 @@ https://github.com/asnaharis06-bot/astar-maze-solver/blob/main/Screenshot%202026
 
 ## 🔗 Project Links
 
-- 📂 GitHub: [A* Maze Solver](https://github.com/asnah/data-redundancy-removal-system)
+- 📂 GitHub: [A* Maze Solver](https://github.com/asnaharis06-bot/astar-maze-solver/tree/main)
 
 ## 📄 License
 
