@@ -162,7 +162,7 @@ https://github.com/asnaharis06-bot/astar-maze-solver/blob/main/Screenshot%202026
 
 **Asna Haris** — Artificial Intelligence Intern
 
-- GitHub: https://github.com/asnaharis06-bot
+- GitHub: https://github.com/asnahar1s
 - LinkedIn: https://www.linkedin.com/in/asna-haris-684058319
 
 ## 🔗 Project Links
